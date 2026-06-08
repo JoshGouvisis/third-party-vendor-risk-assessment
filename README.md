@@ -151,15 +151,16 @@ The 2024 incident was the part I found most interesting to think through. My ins
 ---
 
 ## Skills Demonstrated
-- NIST CSF 2.0 maturity scoring across all six functions (Govern, Identify, Protect, Detect, Respond, Recover)
-- Gap analysis and findings documentation in a business-facing format
-- Risk-based prioritization and remediation roadmap development
-- Translating technical control gaps into executive-level recommendations
-- Regulatory mapping across SEC, FINRA, and SOX requirements
-- Writing structured assessment reports for a professional audience
+- Third-party vendor risk assessment and security questionnaire analysis
+- Risk rating methodology with tiered approval recommendations
+- Identifying control gaps in SOC 2 reports and compliance certifications
+- Subprocessor risk evaluation and data flow analysis
+- Drafting conditions for approval and ongoing monitoring frameworks
+- Regulatory context application across SEC, FINRA, SOX, and privacy requirements
 
 ---
 
 ## About Me
 Security Risk Analyst with 12 years in enterprise risk management. CompTIA Security+ certified (SY0-701). Google Cybersecurity Certificate. ISC2 CC in progress. CRISC candidate. Based in Phoenix, AZ.
+
 [LinkedIn](https://linkedin.com/in/joshgouvisis) | [GitHub](https://github.com/JoshGouvisis)
