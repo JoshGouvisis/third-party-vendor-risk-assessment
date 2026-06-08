@@ -147,3 +147,19 @@ The MFA finding was straightforward once I thought about it in context. "Availab
 The SOC 2 coverage gap took me longer to catch. I initially read "SOC 2 Type II completed" and moved on like it was a green light. It wasn't until I looked at which trust service criteria were actually covered that I realized the two most relevant ones, Confidentiality and Privacy, weren't in scope at all. That taught me to read certifications carefully instead of treating them as blanket assurance.
 
 The 2024 incident was the part I found most interesting to think through. My instinct was that any breach history should count against the vendor. But when I worked through what actually happened and how they responded, I landed in a different place. I don't think I would have gotten there without having a framework to evaluate it against instead of just reacting to it.
+
+---
+
+## Skills Demonstrated
+- NIST CSF 2.0 maturity scoring across all six functions (Govern, Identify, Protect, Detect, Respond, Recover)
+- Gap analysis and findings documentation in a business-facing format
+- Risk-based prioritization and remediation roadmap development
+- Translating technical control gaps into executive-level recommendations
+- Regulatory mapping across SEC, FINRA, and SOX requirements
+- Writing structured assessment reports for a professional audience
+
+---
+
+## About Me
+Security Risk Analyst with 12 years in enterprise risk management. CompTIA Security+ certified (SY0-701). Google Cybersecurity Certificate. ISC2 CC in progress. CRISC candidate. Based in Phoenix, AZ.
+[LinkedIn](https://linkedin.com/in/joshgouvisis) | [GitHub](https://github.com/JoshGouvisis)
